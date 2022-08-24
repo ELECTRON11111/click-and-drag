@@ -9,6 +9,6 @@
     3. JavaScript
 
 --- 
-### Adaptation from wesbos's ==Javascript30==
+### Adaptation from wesbos's *Javascript30*
 ---
 #ELECTRON :gorilla: :heart:
